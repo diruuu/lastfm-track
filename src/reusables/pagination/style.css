@@ -1,0 +1,28 @@
+.pagination {
+    border-top: 3px solid #333;
+    margin-top: 20px;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.pagination .page-info {
+    float: left;
+    padding: 4px 0;
+    font-size: 15px;
+}
+
+.pagination .navigation {
+    float: right;
+}
+
+.navigation > div {
+    float: left;
+    margin-left: 8px;
+    background: #232328;
+    color: #fff;
+    line-height: 1;
+    padding: 6px 10px;
+    border-radius: 3px;
+    font-size: 14px;
+    cursor: pointer;
+}
